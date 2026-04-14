@@ -187,6 +187,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/md-momtasir-rahman-rafi-11b904243/)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/md-momtasir-rahman-rafi-11b904243/)
 - GitHub: [https://github.com/momtasirrafi]
 
